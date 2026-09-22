@@ -17,7 +17,7 @@ An interactive **Power BI dashboard** built to explore and analyze Amazon Prime 
 
 ## 📌 Dashboard Preview
 
-![Amazon Prime Video Power BI Dashboard](/Dashboard.png)
+![Amazon Prime Video Power BI Dashboard](/Dashboard.PNG)
 
 ## 🎯 Project Objective
 
